@@ -1,4 +1,4 @@
-# jobsync-async-batcing
+# jobsync-async-batching
 
 ## [AsyncIO](https://docs.python.org/3/library/asyncio.html) Queueing for [JobSpy](https://github.com/speedyapply/JobSpy) requests
 
