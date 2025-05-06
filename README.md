@@ -13,7 +13,20 @@
 * file_writing.py: ...
 * main.py: ...
 
-#### Outputs
+```bash
+├── outputs
+│   └── 2025-05-05
+│       ├── Los Angeles, CA
+│       │   └── 1746503188.276072.csv
+│       ├── New York, NY
+│       │   └── 1746503188.27917.csv
+│       ├── San Francisco, CA
+│       │   └── 1746503297.673176.csv
+│       └── Seattle, WA
+│           └── 1746503188.273997.csv
+
+```
+
 | title | job_url   | location    | date posted    | num_employees | job_url_direct |
 |:------|:---------|:-----------:|-----------------|:-------------:|---------------:|
 | ReactJS Developer - Candidates from Bay Area (SFO)  |https://www.indeed.com/viewjob?jk=27cc96e7a2285efa| San Jose, CA, US      |  2025-05-03               |    11-50           | http://www.indeed.com/job/reactjs-developer-candidates-bay-area-sfo-27cc96e7a2285efa    |
