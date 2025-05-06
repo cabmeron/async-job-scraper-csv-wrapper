@@ -1,6 +1,6 @@
 # jobsync-async-batcing
 
-## [AsyncIO](https://docs.python.org/3/library/asyncio.html) Queueing for batching [JobSpy](https://github.com/speedyapply/JobSpy) requests
+## [AsyncIO](https://docs.python.org/3/library/asyncio.html) Queueing for [JobSpy](https://github.com/speedyapply/JobSpy) requests
 
 ### How to run:
 1) `pip install -r requirements.txt`
